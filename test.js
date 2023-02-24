@@ -7,4 +7,3 @@ console.log(3);
 console.log("haribo");
 console.log("haribo");
 console.log("haribo");
-console.log("haribo");
